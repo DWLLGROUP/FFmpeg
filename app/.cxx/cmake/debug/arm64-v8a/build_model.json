@@ -1,0 +1,74 @@
+{
+  "variant": {
+    "module": {
+      "rootBuildGradleFolder": "E:\\Work\\NovaskyFFmpeg",
+      "sdkFolder": "C:\\Users\\Administrator\\AppData\\Local\\Android\\Sdk",
+      "isNativeCompilerSettingsCacheEnabled": false,
+      "isBuildOnlyTargetAbiEnabled": true,
+      "splitsAbiFilterSet": [],
+      "intermediatesFolder": "E:\\Work\\NovaskyFFmpeg\\app\\build\\intermediates",
+      "gradleModulePathName": ":app",
+      "moduleRootFolder": "E:\\Work\\NovaskyFFmpeg\\app",
+      "makeFile": "E:\\Work\\NovaskyFFmpeg\\app\\src\\main\\jni\\CMakeLists.txt",
+      "buildSystem": "CMAKE",
+      "compilerSettingsCacheFolder": "E:\\Work\\NovaskyFFmpeg\\.cxx",
+      "cxxFolder": "E:\\Work\\NovaskyFFmpeg\\app\\.cxx",
+      "ndkFolder": "C:\\Users\\Administrator\\AppData\\Local\\Android\\Sdk\\ndk\\20.0.5594570",
+      "ndkVersion": "20.0.5594570",
+      "ndkSupportedAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "cmakeToolchainFile": "."
+    },
+    "buildSystemArgumentList": [
+      "-DANDROID_STL\u003dc++_shared"
+    ],
+    "cFlagList": [],
+    "cppFlagsList": [
+      "-frtti -fexceptions  -std\u003dc++14"
+    ],
+    "variantName": "debug",
+    "soFolder": "E:\\Work\\NovaskyFFmpeg\\app\\build\\intermediates\\cmake\\debug\\lib",
+    "objFolder": "E:\\Work\\NovaskyFFmpeg\\app\\build\\intermediates\\cmake\\debug\\obj",
+    "jsonFolder": "E:\\Work\\NovaskyFFmpeg\\app\\.cxx\\cmake\\debug",
+    "gradleBuildOutputFolder": "E:\\Work\\NovaskyFFmpeg\\app\\.cxx\\cxx\\debug",
+    "isDebuggableEnabled": true,
+    "validAbiList": [
+      "ARMEABI_V7A",
+      "ARM64_V8A",
+      "X86",
+      "X86_64"
+    ],
+    "buildTargetSet": []
+  },
+  "abi": "ARM64_V8A",
+  "abiPlatformVersion": 19,
+  "cxxBuildFolder": "E:\\Work\\NovaskyFFmpeg\\app\\.cxx\\cmake\\debug\\arm64-v8a",
+  "jsonFile": "E:\\Work\\NovaskyFFmpeg\\app\\.cxx\\cmake\\debug\\arm64-v8a\\android_gradle_build.json",
+  "gradleBuildOutputFolder": "E:\\Work\\NovaskyFFmpeg\\app\\.cxx\\cxx\\debug\\arm64-v8a",
+  "objFolder": "E:\\Work\\NovaskyFFmpeg\\app\\build\\intermediates\\cmake\\debug\\obj\\arm64-v8a",
+  "buildCommandFile": "E:\\Work\\NovaskyFFmpeg\\app\\.cxx\\cmake\\debug\\arm64-v8a\\build_command.txt",
+  "buildOutputFile": "E:\\Work\\NovaskyFFmpeg\\app\\.cxx\\cmake\\debug\\arm64-v8a\\build_output.txt",
+  "modelOutputFile": "E:\\Work\\NovaskyFFmpeg\\app\\.cxx\\cmake\\debug\\arm64-v8a\\build_model.json",
+  "cmake": {
+    "cmakeListsWrapperFile": "E:\\Work\\NovaskyFFmpeg\\app\\.cxx\\cxx\\debug\\arm64-v8a\\CMakeLists.txt",
+    "toolchainWrapperFile": "E:\\Work\\NovaskyFFmpeg\\app\\.cxx\\cxx\\debug\\arm64-v8a\\android_gradle_build.toolchain.cmake",
+    "buildGenerationStateFile": "E:\\Work\\NovaskyFFmpeg\\app\\.cxx\\cxx\\debug\\arm64-v8a\\build_generation_state.json",
+    "cacheKeyFile": "E:\\Work\\NovaskyFFmpeg\\app\\.cxx\\cxx\\debug\\arm64-v8a\\compiler_cache_key.json",
+    "compilerCacheUseFile": "E:\\Work\\NovaskyFFmpeg\\app\\.cxx\\cxx\\debug\\arm64-v8a\\compiler_cache_use.json",
+    "compilerCacheWriteFile": "E:\\Work\\NovaskyFFmpeg\\app\\.cxx\\cxx\\debug\\arm64-v8a\\compiler_cache_write.json",
+    "toolchainSettingsFromCacheFile": "E:\\Work\\NovaskyFFmpeg\\app\\.cxx\\cxx\\debug\\arm64-v8a\\compiler_settings_cache.cmake",
+    "cmakeWrappingBaseFolder": "."
+  },
+  "jsonGenerationLoggingRecordFile": "E:\\Work\\NovaskyFFmpeg\\app\\.cxx\\cmake\\debug\\arm64-v8a\\json_generation_record.json",
+  "compileCommandsJsonFile": "E:\\Work\\NovaskyFFmpeg\\app\\.cxx\\cmake\\debug\\arm64-v8a\\compile_commands.json"
+}

@@ -1,0 +1,21 @@
+{
+  "buildFiles": [
+    "E:\\Work\\NovaskyFFmpeg\\app\\src\\main\\jni\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\Administrator\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build E:\\Work\\NovaskyFFmpeg\\app\\.cxx\\cmake\\debug\\arm64-v8a --target clean"
+  ],
+  "libraries": {
+    "NovaPushStream-Debug-arm64-v8a": {
+      "artifactName": "NovaPushStream",
+      "abi": "arm64-v8a",
+      "output": "E:\\Work\\NovaskyFFmpeg\\app\\src\\main\\jniffmpeg\\armeabi\\libNovaPushStream.so"
+    },
+    "native-lib-Debug-arm64-v8a": {
+      "artifactName": "native-lib",
+      "buildCommand": "C:\\Users\\Administrator\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build E:\\Work\\NovaskyFFmpeg\\app\\.cxx\\cmake\\debug\\arm64-v8a --target native-lib",
+      "abi": "arm64-v8a",
+      "output": "E:\\Work\\NovaskyFFmpeg\\app\\build\\intermediates\\cmake\\debug\\obj\\arm64-v8a\\libnative-lib.so"
+    }
+  }
+}
